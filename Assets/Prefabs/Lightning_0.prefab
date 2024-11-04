@@ -255,6 +255,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 6
   direction: {x: 0, y: 0}
+  body: {fileID: 8777579693091606349}
 --- !u!95 &5856855763630311143
 Animator:
   serializedVersion: 5
