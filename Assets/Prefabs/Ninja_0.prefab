@@ -202,6 +202,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tagsToDamage:
   - Player
+  canKill: 1
 --- !u!114 &541411560232652554
 MonoBehaviour:
   m_ObjectHideFlags: 0

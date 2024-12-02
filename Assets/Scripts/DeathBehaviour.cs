@@ -3,14 +3,10 @@ using UnityEngine;
 public class DeathBehaviour : MonoBehaviour
 {
     public int scoreOnDeath;
-    
-    void OnDestroy()
-    {
-        Die();
-    }
 
-    void Die()
+    public void Die()
     {
         GameManager.score += scoreOnDeath;
+        Destroy(gameObject);    
     }
 }
