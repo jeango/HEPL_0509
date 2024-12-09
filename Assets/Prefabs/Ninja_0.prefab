@@ -216,3 +216,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreOnDeath: 10
+  deathEffect: {fileID: 7567210555495589757, guid: 83108695750ad4464ba6f93656d64271, type: 3}
